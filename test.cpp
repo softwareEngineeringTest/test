@@ -11,12 +11,16 @@ int main() {
       for (int j = 1; j <= count - i; j++)
       {
          cout << "*";
-      } cout << "아\n";
+      } cout << "아아아아\n";
         cout << "\n";
    }
+   test();
    
 }
 
 void test(){
-    cout << "count";
+    for (int j = 1; j <= 10; j++)
+      {
+         cout << " ";
+      }
 }
