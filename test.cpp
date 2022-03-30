@@ -14,6 +14,7 @@ int main() {
       } cout << "아아아아\n";
         cout << "\n";
    }
+   test();
    
 }
 
