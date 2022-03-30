@@ -15,7 +15,6 @@ int main() {
         cout << "\n";
    }
    cout<<"수정"<<endl;
-   cout<<"수정2"<<endl;
    cout<<"수정3"<<endl;
-}
+   
 }
