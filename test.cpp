@@ -18,6 +18,5 @@ int main() {
 }
 
 void test(){
-    int count=0;
-    cout << count;
+    cout << "count";
 }
