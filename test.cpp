@@ -19,8 +19,9 @@ int main() {
 }
 
 void test(){
+    int count=0;
     for (int j = 1; j <= 10; j++)
       {
-         cout << " ";
+         cout << count;
       }
 }
